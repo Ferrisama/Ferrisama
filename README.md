@@ -1,7 +1,7 @@
 # 
 <img src="C:\Users\asmit\OneDrive\Desktop\OnlCourses\VSFiles\IMG\My project.png">
 <h1 align="center">Hi! Asmit Ghosh here with you. </h1>
-<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Frontend developer from Electronics and Communication background. I do Frontend Web Development and basic Data analysis. Can code in Python, learning C/C++. Learn from community, contribute to community✌️</p>
+<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Frontend developer. Can code in Python, learning C/C++. Learn from community, contribute to community✌️</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=23&color=F7E615&center=true&lines=Frontend+Web+Developer;Electronics+and+Communication;Kopi+Java+with+Monty+Python;HIMYM+and+Modern+Family"></a>
 </p>
