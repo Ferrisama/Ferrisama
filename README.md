@@ -12,7 +12,7 @@
   <img align="left" alt="Asmit Ghosh | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/asmit-ghosh-444600223/">
-  <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
 <hr/>
 
