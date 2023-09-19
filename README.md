@@ -38,7 +38,7 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ferrisama&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Ferrisama"  />
   
-  <img alt="Asmit Ghosh's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Ferrisama&count_private=true&show_icons=true&include_all_commits=true" />
+ 
 </p>
 
 <p align="center">
