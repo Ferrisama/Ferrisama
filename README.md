@@ -1,7 +1,7 @@
 # 
 
 <h1 align="center">Hi! Asmit Ghosh here with you. </h1>
-<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Frontend developer. Can code in Python, learning C/C++. Learn from community, contribute to community✌️</p>
+<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Fullstack dev. Data Analyst, PYTHON, JAVA, TypeScript. Learn from community, contribute to community✌️</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=23&color=F7E615&center=true&lines=Frontend+Web+Developer;Data+Analytics;Blackadder+Monty+Python;HIMYM+and+Modern+Family"></a>
 </p>
