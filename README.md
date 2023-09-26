@@ -3,7 +3,7 @@
 <h1 align="center">Hi! Asmit Ghosh here with you. </h1>
 <p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Fullstack dev. Data Analyst, PYTHON, JAVA, TypeScript. Learn from community, contribute to community✌️</p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=23&color=F7E615&center=true&lines=Frontend+Web+Developer;Data+Analytics;Blackadder+Monty+Python;HIMYM+and+Modern+Family"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=23&color=F7E615&center=true&lines=FullStack+Developer;Data+Analytics;Blackadder;HIMYM+and+Modern+Family"></a>
 </p>
 <a href="mailto:asmitghosh3@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
