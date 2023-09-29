@@ -1,9 +1,6 @@
 # 
-
 <h1 align="center">Ciao! Asmit Ghosh here with you. </h1>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=F7E615&center=true&lines=FullStack+Developer;Data+Analytics;Blackadder;HIMYM+and+Modern+Family"></a>
-</p>
 <a href="mailto:asmitghosh3@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
@@ -13,8 +10,9 @@
 <a href="https://www.linkedin.com/in/asmit-ghosh-444600223/">
   <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
-
+<br>
 <hr/>
+
 
 
 <br>
@@ -31,8 +29,6 @@
 
 <hr>
 <br> 
-  
- 
 <h2 align="center"> 🐳Meine Werkzeuge </h2>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
@@ -53,18 +49,19 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 </p>
-
 <br>
-<hr>
+<hr><br>
 <h2 align="center"> 🐡Statistieken</h2>
-<br>
+
 <p>
    <a href="https://github.com/Ferrisama/github-readme-stats">
-     <img alt="Ferrisama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ferrisama&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/></a>
+     <img alt="Ferrisama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ferrisama&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160px"/></a>
 <a href="https://github.com/Ferrisama/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrisama&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Ferrisama" height="192px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrisama&langs_count=10&show_icons=true&locale=en&layout=compact&theme=solarized-dark&hide_border=true" alt="Ferrisama" height="160px"/></a>
 </p>
-
+<p align="center">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrisama&theme=nightowl" />
+</p>
 <br>
 
 <hr>
