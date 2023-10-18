@@ -20,7 +20,7 @@
 
 <h2 align="center"> 🐻‍❄️ Quis sum? </h2>
 <p align="center">
-  <samp>GitHub aficionado skilled in Python and JavaScript, delving into full stack and data analytics with a love for blockchain. Committed to crafting code that merges innovation and reliability. Equipped with a stack of solutions from Stack Overflow. Beyond the screen, I explore the realms of humor, literature, cinema, and the mysteries of the past. Let's connect and code our way through exciting possibilities!
+  <samp>GitHub aficionado skilled in Python and TypeScript, delving into full stack and data analytics with a love for blockchain. Committed to crafting code that merges innovation and reliability. Equipped with a stack of solutions from Stack Overflow. Beyond the screen, I explore the realms of humor, literature, cinema, and the mysteries of the past. Let's connect and code our way through exciting possibilities!
   </samp>
   <p align="center"> (Open for Hiring)</p>
   <br> <br>
