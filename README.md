@@ -48,9 +48,9 @@
 ![MySql](https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=00758f)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)
-![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerBI&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
-![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark&logoColor=orange)
+
 </p>
 <br>
 <hr><br>
