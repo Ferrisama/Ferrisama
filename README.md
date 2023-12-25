@@ -51,6 +51,8 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerBI&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark&logoColor=orange)
+![Kafka](https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black)
+
 
 </p>
 <br>
