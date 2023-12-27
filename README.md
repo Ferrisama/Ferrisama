@@ -34,7 +34,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Pandas](https://img.shields.io/badge/Pandas-090BA2?style=for-the-badge&logo=pandas&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -42,12 +41,10 @@
 ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=3c873a)
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-b3b3b3?style=for-the-badge&logo=angular&logoColor=a6120d)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 
 ![MySql](https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=00758f)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerBI&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark&logoColor=orange)
