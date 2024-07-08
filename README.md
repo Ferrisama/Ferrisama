@@ -57,10 +57,9 @@
 <h2 align="center"> 🐡Statistieken</h2>
 
 <p>
-   <a href="https://github.com/Ferrisama/github-readme-stats">
-     <img alt="Ferrisama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ferrisama&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160px"/></a>
+
 <a href="https://github.com/Ferrisama/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrisama&langs_count=10&show_icons=true&locale=en&layout=compact&theme=solarized-dark&hide_border=true" alt="Ferrisama" height="160px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrisama&langs_count=10&show_icons=true&locale=en&layout=compact&theme=solarized-dark&hide_border=true" alt="Ferrisama" height="220px"/></a>
 </p>
 <p align="center">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrisama&theme=nightowl" />
