@@ -32,23 +32,28 @@
 <h2 align="center"> 🐳Meine Werkzeuge </h2>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Pandas](https://img.shields.io/badge/Pandas-090BA2?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-404D59?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=3c873a)
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![MySql](https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=00758f)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-e9b51c?style=for-the-badge&logo=powerBI&logoColor=black)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
+![Pandas](https://img.shields.io/badge/Pandas-090BA2?style=for-the-badge&logo=pandas&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark&logoColor=orange)
-![Kafka](https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 
 
 </p>
