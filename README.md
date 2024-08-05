@@ -65,25 +65,29 @@
 
 <!--  -->
 
-
-
-
-
-
-
-<p>
-<a href="https://github.com/Ferrisama/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Ferrisama&&show_icons=true&theme=radical" height="220px"/>
-  </a>
-
-
-<a href="https://github.com/Ferrisama/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrisama&langs_count=10&show_icons=true&locale=en&layout=compact&theme=solarized-dark&hide_border=true" alt="Ferrisama" height="220px"/></a>
-</p>
-<p align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrisama&theme=nightowl"  />
-</p>
 <br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Ferrisama/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ferrisama&theme=nightowl&border=61dafb&hide_border=true" alt="Ferrisama" />
+    </a>
+    <a href="https://github.com/Ferrisama/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ferrisama&show_icons=true&theme=nightowl&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Ferrisama/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrisama&icon_color=61dafb&theme=nightowl&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.1" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrisama&theme=nightowl&hide_border=true" width="100%"/>
+</p>
 
 <hr>
+
+
+
 <h2  align="center">🦑 Mis repositorios ⬇️ <br></h2>
