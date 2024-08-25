@@ -1,11 +1,12 @@
 # 
-<h1 align="center">Ciao! Asmit Ghosh here with you. </h1>
+<h1 align="center">Ciao! Asmit Ghosh here with you </h1>
 
 <a href="mailto:asmitghosh3@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
-<a href="https://twitter.com/n_aficionado">
-  <img align="left" alt="Asmit Ghosh | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+<a href="https://x.com/n_aficionado">
+  <img align="left" alt="Asmit Ghosh | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=ffffff" />
+ 
 </a>
 <a href="https://www.linkedin.com/in/asmit-ghosh-444600223/">
   <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
