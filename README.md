@@ -9,7 +9,7 @@
  
 </a>
 <a href="https://www.linkedin.com/in/asmit-ghosh-444600223/">
-  <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin"/>
+  <img align="left" alt="Asmit Ghosh | LinkedIN" width="22px" src="https://img.icons8.com/?size=110&id=13930&format=png&color=000000" alt="linkedin"/>
   
 </a>
 <br>
