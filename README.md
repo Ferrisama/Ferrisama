@@ -110,7 +110,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ferrisama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ferrisama&layout=compact&theme=algolia&hide_border=true&border_radius=20&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrisama&icon_color=61dafb&theme=algolia&include_all_commits=true&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.1" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ferrisama&theme=algolia&hide_border=true&border_radius=20" alt="GitHub Streak" />
@@ -120,7 +120,9 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Featured Projects
+
+
+
 
 <div align="center">
 
